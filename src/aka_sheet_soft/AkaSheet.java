@@ -37,7 +37,7 @@ import javax.swing.JFrame;
 import javax.swing.JRootPane;
 import javax.swing.border.LineBorder;
 
-public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, WindowListener {
+public class AkaSheet extends JFrame implements CpoyScreen, KeyListener, WindowListener {
 
 	//a
 	private BufferedImage backImage;
@@ -62,7 +62,7 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 
 	int idou_haba = 0;
 
-	public Aka_sheet(String title) throws FileNotFoundException, IOException, AWTException {
+	public AkaSheet(String title) throws FileNotFoundException, IOException, AWTException {
 
 		super(title);
 
@@ -85,7 +85,7 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 
 		try {
 		    // TODO [important]　Make it a relative path
-			prop.load(new FileInputStream("C:\\Users\\User\\Google ドライブ\\workspace\\00_workspace_acsecibility\\aka_sheet_soft\\resource\\prop1.properties"));
+			prop.load(new FileInputStream("./resource/prop1.properties"));
 		} catch (FileNotFoundException e) {
 			// TODO 自動生成された catch ブロック
 			e.printStackTrace();
@@ -97,7 +97,7 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 		idou_haba = Integer.parseInt(prop.getProperty("hennsuu"));
 
 		try {
-			file = new File("C:\\Users\\User\\Google ドライブ\\workspace\\00_workspace_acsecibility\\aka_sheet_soft\\resource\\debug.txt");
+			file = new File("./resource/debug.txt");
 
 			if (checkBeforeWritefile(file)) {
 
@@ -190,7 +190,7 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 		super.addNotify();
 	}
 
-	public void copy_screen() throws IOException {
+	public void copyScreen() throws IOException {
 		f.write("public void copy_screen() throws IOException {\n");
 		Rectangle bounds = getBounds();
 		Insets insets = getInsets();
@@ -469,7 +469,7 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 		/*
 		 * 起動チェック 2重起動しない
 		 */
-		final FileOutputStream fos = new FileOutputStream(new File("C:\\Users\\User\\Google ドライブ\\workspace\\00_workspace_acsecibility\\aka_sheet_soft\\resource\\lock_control2"));
+		final FileOutputStream fos = new FileOutputStream(new File("./resource/lock_control2"));
 		final FileChannel fc = fos.getChannel();
 		final FileLock lock = fc.tryLock();
 
@@ -523,7 +523,7 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, AWTException {
 		// f.write("\n");
-		Aka_sheet jTransFrame = new Aka_sheet("赤シートソフト");
+		AkaSheet jTransFrame = new AkaSheet("赤シートソフト");
 		jTransFrame.setSize(700, 450);
 		jTransFrame.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		jTransFrame.setUndecorated(true);
@@ -568,4 +568,9 @@ public class Aka_sheet extends JFrame implements Cpoy_screen, KeyListener, Windo
 	public void windowOpened(WindowEvent windowevent) {
 		// TODO 自動生成されたメソッド・スタブ
 	}
+
+   public void copy_screen() throws IOException {
+      // TODO Auto-generated method stub
+      
+   }
 }

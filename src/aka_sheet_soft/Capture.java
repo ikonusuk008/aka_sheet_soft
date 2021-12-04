@@ -21,9 +21,9 @@ class Capture {
 
     private Timer timer;
 
-    private Cpoy_screen parent;
+    private CpoyScreen parent;
 
-    public Capture(Cpoy_screen parent) {
+    public Capture(CpoyScreen parent) {
 
     	this.parent = parent;
 
