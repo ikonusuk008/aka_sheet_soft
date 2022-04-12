@@ -35829,4 +35829,279 @@ protected void processComponentEvent(ComponentEvent e) {
 if (capture.isCapturing()) {
 if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
 public final void paintComponent(Graphics g) {
-if (capture.isCap
+if (capture.isCappublic Aka_sheet(String title) 
+public synchronized void init() throws IOException {
+public void addNotify() {
+if (!capture.isCapturing()) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+public final void paintComponent(Graphics g) {
+if (capture.isCapturing()) {
+private synchronized BufferedImage getBackImage() throws IOException {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == ComponentEvent.COMPONENT_MOVED || e.getID() == ComponentEvent.COMPONENT_RESIZED) {
+protected void processComponentEvent(ComponentEvent e) {
+if (capture.isCapturing()) {
+if (e.getID() == Compone
