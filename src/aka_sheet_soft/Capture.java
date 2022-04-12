@@ -118,7 +118,7 @@ class Capture {
                return;
             }
          } else {
-            parent.copy_screen();
+            parent.copyScreen();
             dirtyFlag = false;
          }
       }
